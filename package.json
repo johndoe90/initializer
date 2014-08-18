@@ -1,0 +1,29 @@
+{
+  "name": "application-initializer",
+  "version": "0.0.2",
+  "description": "Helps to resolve all dependencies before the actual application is kicked-off.",
+  "main": "lib/initializer.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/johndoe90/initializer.git"
+  },
+  "author": "Phillip Friedrich",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/johndoe90/initializer/issues"
+  },
+  "homepage": "https://github.com/johndoe90/initializer",
+  "dependencies": {
+    "bluebird": "^2.3.0"
+  },
+  "devDependencies": {
+    "grunt-contrib-jshint": "^0.10.0",
+    "grunt-contrib-watch": "^0.6.1",
+    "grunt-jasmine-node": "^0.2.1",
+    "load-grunt-tasks": "^0.6.0"
+  },
+  "readme": "ERROR: No README data found!"
+}
